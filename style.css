@@ -1,0 +1,29 @@
+body {
+    background-color: #f0f3f7;
+    font: italic,uppercase,15px/30px,sans-serif;
+    color:black;
+}
+header{
+    text-align: center;
+    line-height: 50%;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(105, 103, 103);
+
+}
+h3{
+    font-size: 30px;   
+}
+
+#clockpic{
+    width: 35%;
+    height: 250%;
+
+}
+.maincontent{
+    width:70%;
+    margin:50px auto;
+    background-color: rgb(252, 214, 220);
+    border-radius: 5%;
+    text-align: center;
+}
